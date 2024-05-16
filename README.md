@@ -19,6 +19,7 @@ Criptomoneda es una aplicación desarrollada con React y TypeScript que permite 
 - **Zustand**: Biblioteca para el manejo del estado global en React.
 - **Zod**: Biblioteca para la validación de esquemas y tipos.
 
+### Link de la Api : https://min-api.cryptocompare.com/
 ## Instalación
 
 Para instalar y ejecutar la aplicación localmente, sigue estos pasos:
